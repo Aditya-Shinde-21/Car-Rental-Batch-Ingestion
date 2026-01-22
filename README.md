@@ -303,4 +303,4 @@ For questions or issues:
 
 **🔧 Built with:** Apache Airflow, Google Cloud Dataproc, Apache Spark, Snowflake, Python, SQL
 
-**📅 Last Updated:** September 2025
+**📅 Last Updated:** January 2026
