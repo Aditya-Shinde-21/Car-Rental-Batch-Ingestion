@@ -291,14 +291,6 @@ This project demonstrates:
 - **Historical Tracking**: SCD2 for customer data evolution
 - **Cost Optimization**: Efficient resource utilization
 
-## 📞 Support
-
-For questions or issues:
-1. Check the troubleshooting section
-2. Review Airflow and Spark job logs
-3. Validate Snowflake connection and permissions
-4. Verify GCS bucket access and file availability
-
 ---
 
 **🔧 Built with:** Apache Airflow, Google Cloud Dataproc, Apache Spark, Snowflake, Python, SQL
